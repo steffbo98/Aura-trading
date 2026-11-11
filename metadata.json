@@ -1,0 +1,7 @@
+{
+  "name": "AURA Trading Terminal",
+  "description": "Professional multi-asset trading platform for Forex, Stocks, NFTs, and News-driven markets with real-time analytics and secure portfolio tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
